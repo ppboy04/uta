@@ -370,7 +370,7 @@ export default function HomePage() {
                   <p className="text-lg font-semibold text-slate-700 mb-4">Shanti Tennis Academy</p>
                   <div className="mb-4 rounded-lg overflow-hidden shadow-lg">
                     <iframe
-                      src="https://www.google.com/maps/place/Shanti+Tennis+Academy/@30.3090678,78.0538135,17z/data=!3m1!4b1!4m6!3m5!1s0x390929af78d571c3:0xce2d2329a1ca3d38!8m2!3d30.3090678!4d78.0538135!16s%2Fg%2F1261sp337?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3443.8234567890123!2d78.0516135!3d30.3090678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390929af78d571c3%3A0xce2d2329a1ca3d38!2sShanti%20Tennis%20Academy!5e0!3m2!1sen!2sin!4v1640995200000!5m2!1sen!2sin"
                       width="100%"
                       height="200"
                       style={{ border: 0 }}
@@ -381,7 +381,7 @@ export default function HomePage() {
                     />
                   </div>
                   <a
-                    href="https://maps.app.goo.gl/fPLo9aK52WSihktY6"
+                    href="https://www.google.com/maps/place/Shanti+Tennis+Academy/@30.3090678,78.0538135,17z/data=!3m1!4b1!4m6!3m5!1s0x390929af78d571c3:0xce2d2329a1ca3d38!8m2!3d30.3090678!4d78.0538135!16s%2Fg%2F1261sp337?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white px-6 py-3 rounded-xl font-semibold transition-all duration-300 transform hover:scale-105"
