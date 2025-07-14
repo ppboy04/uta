@@ -370,7 +370,7 @@ export default function HomePage() {
                   <p className="text-lg font-semibold text-slate-700 mb-4">Shanti Tennis Academy</p>
                   <div className="mb-4 rounded-lg overflow-hidden shadow-lg">
                     <iframe
-                      src="https://maps.app.goo.gl/fPLo9aK52WSihktY6"
+                      src="https://www.google.com/maps/place/Shanti+Tennis+Academy/@30.3090678,78.0538135,17z/data=!3m1!4b1!4m6!3m5!1s0x390929af78d571c3:0xce2d2329a1ca3d38!8m2!3d30.3090678!4d78.0538135!16s%2Fg%2F1261sp337?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D"
                       width="100%"
                       height="200"
                       style={{ border: 0 }}
