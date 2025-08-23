@@ -9,4 +9,4 @@
 
 My project is live at:
 
-**[https://vercel.com/pranav-s-projects-1f7415d0/v0-uttaranchal-tennis-website](https://vercel.com/pranav-s-projects-1f7415d0/v0-uttaranchal-tennis-website)**
+**[https://vercel.com/pranav-s-projects-1f7415d0/v0-uttaranchal-tennis-website](https://uttranchal-tennis-association.vercel.app/))**
